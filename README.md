@@ -13,4 +13,9 @@ redirecting to Kunal Ghosh repository https://github.com/kunalg123/vsdflow.git f
 # :)
 Seems there was an easier way for installing tools using VSDFLOW. Now 2 versions of installations are in progress.
 Lets check the shortcomings in either of them referring to YouTube resources. As workshop videos arent freely available.
+# Completed VSDFLOW installation- Update though success message is displayed. qflow didnt get installed. There are errors in the terminal window saying disk full. Checking storage shows storage is almost full. 20GB is not Enough!!!!!!!!!!!!!!
+I will delete whole VSDFLOW FOLDER as it is hampering smooth operation of VM.
+Hoping to learn sky130 using youtube resources
+![image](https://user-images.githubusercontent.com/16399079/207550479-1c263437-1cce-49ca-995a-c469d1845cf6.png)
+
 # Planning to release completed installation as an ISO file
