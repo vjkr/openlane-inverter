@@ -30,3 +30,15 @@ Hoping to learn sky130 using youtube resources
  ![image](https://user-images.githubusercontent.com/16399079/219607641-c3801c66-2b03-42d5-906f-383c2e0e6b30.png)
 
 </details>
+
+# Learning stepwise following other workshop participants' repos
+https://gitlab.com/gab13c/openlane-workshop
+
+## 1. Invoke openlane using 'make mount' and interactive flow
+![image](https://user-images.githubusercontent.com/16399079/219614381-8fc51f25-b7f2-4939-8684-be3138776761.png)
+
+start openlane, prep design
+
+## 2.
+
+
