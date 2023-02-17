@@ -24,4 +24,9 @@ Hoping to learn sky130 using youtube resources
 
 <details>
 <summary># openlane-inverter (stepwise study) NEW vsdflow installation</summary>
+ inverter testing successful. Only verilog file and config.json file are input!!!!
+ All steps completed without errors or warnings!
+ 
+ ![image](https://user-images.githubusercontent.com/16399079/219607641-c3801c66-2b03-42d5-906f-383c2e0e6b30.png)
+
 </details>
