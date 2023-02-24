@@ -50,5 +50,7 @@ But editing json file with 0 die area thorws below error!!!
 ## 4. Trying to learn step by step!
 ## 5. Synthesis
 
+I could run only synthesis step by referring an interesting issue in openlane https://github.com/The-OpenROAD-Project/OpenLane/issues/805
 
+![image](https://user-images.githubusercontent.com/16399079/221164462-10fb50bb-423b-4cba-8d0f-92125976e41a.png)
 
