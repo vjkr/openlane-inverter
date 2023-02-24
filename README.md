@@ -39,6 +39,16 @@ https://gitlab.com/gab13c/openlane-workshop
 
 start openlane, prep design
 
-## 2.
+## 2. prep design throwing error. Maybe prep was specifically for vsd workshop. 
+## 3. Understanding config file. 
+new installation of openlane designs have config.json files.
+These files look similar to config.tcl.
+./flow.tcl -design invconfig completes RTL2GDS flow.
+But editing json file with 0 die area thorws below error!!!
+![image](https://user-images.githubusercontent.com/16399079/221159264-12033d03-a5c7-4c20-bd38-9b8ba1794cc9.png)
+
+## 4. Trying to learn step by step!
+## 5. Synthesis
+
 
 
